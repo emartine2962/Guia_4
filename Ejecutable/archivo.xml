@@ -1,0 +1,22 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Edga\Documents\NetBeansProjects\Banco\dist\Banco.jar</jar>
+  <outfile>C:\Users\Edga\Desktop\Ejecutable\Programa Bancario.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Edga\Desktop\Bank_icon-icons.com_74914.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk1.8.0_181\jre</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
